@@ -5,11 +5,12 @@ function Links() {
       <ul>
         <li>
           <a
+            target="_blank"
             href="https://jigsaw.w3.org/css-validator/#validate_by_input
 "
           >
             Validador CSS
-          </a>{" "}
+          </a>
         </li>
       </ul>
     </>

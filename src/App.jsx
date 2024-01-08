@@ -1,10 +1,11 @@
 import "./App.css";
-import AddandRemoveItens from "./NotasEColas/AddandRemoveItens";
+
+import Links from "./NotasEColas/Links";
 
 function App() {
   return (
     <>
-      <AddandRemoveItens />{" "}
+      <Links />
     </>
   );
 }

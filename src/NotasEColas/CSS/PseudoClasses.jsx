@@ -39,9 +39,17 @@ function PseudoClasses() {
         exemplo abaixo. dá para alterar o valor do texto da propriedade de
         content e veja a mudança na saída. Você também poderia alterar o
         pseudo-elemento ::before para ::after e ver o texto inserido no final do
-        elemento em vez do início. Exemplo:CSS -- .box::before content: "banana
-        ";
+        elemento em vez do início.
+        {"Exemplo:CSS -- .box::before content: banana"} ;
       </p>
+
+      <h3>References</h3>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes">
+        Pseudo classes
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements">
+        Pseudo Elementos
+      </a>
     </div>
   );
 }

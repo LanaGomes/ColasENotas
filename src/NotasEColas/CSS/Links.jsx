@@ -17,6 +17,14 @@ function Links() {
             Criador de arrow CSS
           </a>
         </li>
+        <li>
+          <a
+            target="_blank"
+            href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators"
+          >
+            Combinators
+          </a>
+        </li>
       </ul>
     </>
   );

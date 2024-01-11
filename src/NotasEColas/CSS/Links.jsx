@@ -12,6 +12,11 @@ function Links() {
             Validador CSS
           </a>
         </li>
+        <li>
+          <a target="_blank" href="https://cssarrowplease.com/">
+            Criador de arrow CSS
+          </a>
+        </li>
       </ul>
     </>
   );

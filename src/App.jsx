@@ -1,11 +1,11 @@
 import "./App.css";
 
-import Links from "./NotasEColas/Links";
+import PseudoClasses from "./NotasEColas/CSS/PseudoClasses";
 
 function App() {
   return (
     <>
-      <Links />
+      <PseudoClasses />
     </>
   );
 }

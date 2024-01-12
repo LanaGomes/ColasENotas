@@ -25,6 +25,14 @@ function Links() {
             Combinators
           </a>
         </li>
+        <li>
+          <a
+            target="_blank"
+            href="https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/repeating-linear-gradient"
+          >
+            {"repeating-linear-gradient()"}
+          </a>
+        </li>
       </ul>
     </>
   );

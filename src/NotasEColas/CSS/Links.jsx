@@ -33,6 +33,14 @@ function Links() {
             {"repeating-linear-gradient()"}
           </a>
         </li>
+        <li>
+          <a
+            target="_blank"
+            href="https://www.youtube.com/watch?v=rfQ2F8kQEUg&list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb&index=6"
+          >
+            {"Banco de dados - Firestore passo a passo para add e delete info"}
+          </a>
+        </li>
       </ul>
     </>
   );

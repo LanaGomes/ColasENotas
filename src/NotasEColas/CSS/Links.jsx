@@ -4,6 +4,11 @@ function Links() {
       <h2>Links</h2>
       <ul>
         <li>
+          <a target="_blank" href="https://codersblock.com/">
+            {"ótimo site para aprender sobre CSS!"}
+          </a>
+        </li>
+        <li>
           <a target="_blank" href="https://kazzkiq.github.io/balloon.css/">
             Ballons CSS
           </a>
